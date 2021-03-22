@@ -7,4 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+FRONT END: https://github.com/KristinCassidy/Capstone-Project-Frontend
+BACK END: https://github.com/kovalen1618/Capstone-Project-Backend
